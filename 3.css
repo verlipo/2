@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(230,218,166 );
+    font-size: 19px;
+    font-weight: 550;
+
+}
+
+.og {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
